@@ -1,0 +1,10 @@
+#player {
+  /* The image to be shown when receiver app is launched. */
+  --splash-image: url('chromecast_ultra.png');
+
+  /* The hue to use for the player. */
+  --theme-hue: 100;
+
+  /*  Color for progress bar. */
+  --progress-color: rgba(60, 179, 113, 0);
+}
